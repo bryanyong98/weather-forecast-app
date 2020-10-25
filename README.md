@@ -5,7 +5,7 @@ OpenMap Weather API is used to gather real world data to be integrated into the 
 
 <br/>
 
-# Screenshots 
+## Screenshots 
 <p float="left">
       <img src="https://user-images.githubusercontent.com/59403437/97097825-b1531780-16b0-11eb-917c-069950e447ce.jpeg" width="30%">
       <img src="https://user-images.githubusercontent.com/59403437/97097826-b3b57180-16b0-11eb-93e8-49770b405517.jpeg" width="30%">
